@@ -1,0 +1,9 @@
+
+Install the ssh2 library for SSH connectivity:
+npm install ssh2
+
+create script
+xyx.js
+
+run script
+node xyx.js
